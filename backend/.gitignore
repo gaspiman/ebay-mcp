@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+backend
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
